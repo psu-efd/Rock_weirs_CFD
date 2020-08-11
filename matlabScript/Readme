@@ -1,0 +1,9 @@
+This is a matlab script to evaluate existing recommend Cd for rock weir and generate the comparison figure in the paper.
+The simulated Cdi is compared with four existing recommend Cd, which are 'BCweir','FAO','KZ', and 'USBR'.
+
+--
+Yi-Xuan Zeng
+Ph.D. Candidate
+Department of Civil and Environmental Engineering
+Penn State University 
+
